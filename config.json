@@ -84,6 +84,52 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "gaoqingzy": {
+      "api": "https://gaoqingzy.com/api.php/provide/vod",
+      "name": "高清云资源",
+      "detail": "https://gaoqingzy.com"
+    },
+    "172zy": {
+      "api": "https://172zy.net/api.php/provide/vod",
+      "name": "172云资源",
+      "detail": "https://172zy.net"
+    },
+    "languang": {
+      "api": "https://languangdy.com/api.php/provide/vod",
+      "name": "蓝光电影资源",
+      "detail": "https://languangdy.com"
+    },
+    "xzylm": {
+      "api": "https://www.xzylm.com/api.php/provide/vod",
+      "name": "X资源联盟",
+      "detail": "https://www.xzylm.com"
+    },
+    "laosebi": {
+      "api": "https://laosebizy.com/api.php/provide/vod",
+      "name": "老色逼资源",
+      "detail": "https://laosebizy.com"
+    },
+    "155zy": {
+      "api": "https://155zy.com/api.php/provide/vod",
+      "name": "155资源站",
+      "detail": "https://155zy.com"
+    },
+    "senlinzy": {
+      "api": "https://senlinzy.com/api.php/provide/vod",
+      "name": "森林资源",
+      "detail": "https://senlinzy.com"
+    },
+    "eporner": {
+      "api": "https://www.eporner.com/api/v2/",
+      "name": "Eporner API",
+      "detail": "https://github.com/eporner/API"
+    },
+    "xvidapi": {
+      "api": "https://xvidapi.com/api/v1/videos",
+      "name": "XVidAPI",
+      "detail": "https://xvidapi.com"
     }
   }
 }
+
